@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which React hook is used for managing state in a function component?",
+      "options": [
+        "useEffect",
+        "useState",
+        "useMemo",
+        "useRef"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "2",
+      "question": "Which hook would you use to perform side effects like data fetching?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useMemo",
+        "useContext"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "3",
+      "question": "Which hook can be used to memoize expensive calculations?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useMemo",
+        "useReducer"
+      ],
+      "correctIndex": 2
+    }
+  ],
+  "results": [
+    {
+      "id": "f570",
+      "name": "Student Name",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "e95b",
+      "name": "",
+      "score": 2,
+      "total": 3
+    },
+    {
+      "id": "82e8",
+      "name": "",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "ab4c",
+      "name": "Joel Jacob Felix",
+      "score": 1,
+      "total": 3
+    },
+    {
+      "id": "90ec",
+      "name": "eeee",
+      "score": 1,
+      "total": 3
+    },
+    {
+      "id": "967b",
+      "name": "",
+      "score": 1,
+      "total": 3
+    },
+    {
+      "id": "7382",
+      "name": "",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "fe98",
+      "name": "",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "de56",
+      "name": "jjreojreo",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "4ac5",
+      "name": "",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "8cc8",
+      "name": "Joel Jacob Felix",
+      "score": 0,
+      "total": 3
+    },
+    {
+      "id": "c205",
+      "name": "",
+      "score": 3,
+      "total": 3
+    },
+    {
+      "id": "b0ed",
+      "name": "",
+      "score": 2,
+      "total": 3
+    }
+  ],
+  "feedback": []
+}
